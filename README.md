@@ -26,6 +26,7 @@ This repository aims to describe the skills and professional knowledge.
 ### Libraries Knowledge
 - [ether.js](https://docs.ethers.org/v5/)
 - [web3.js](https://web3js.readthedocs.io/en/v1.8.1/)
+- [chart.js]([https://web3js.readthedocs.io/en/v1.8.1/](https://www.chartjs.org/))
 - [Taiwling](https://tailwindcss.com/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Fontawersome](https://fontawesome.com/)
