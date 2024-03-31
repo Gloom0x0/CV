@@ -4,14 +4,16 @@ This repository aims to describe the skills and professional knowledge.
 `Frontend` & `Web3` developer.
 
 # Work experiences
+### Nebula Labs
+- Link: [Nebula Labs🌌]([https://neonprotocol.io/](https://twitter.com/NebulaLabsOrg))
+- Position: `Front Head Developer`
+- Date: `March 2024 - currently working`
+
+# Project contributor
 ### NΞON Protocol
 - Link: [neonprotocol.io](https://neonprotocol.io/)
 - Position: `Front Head Developer`
 - Date: `Jan 2022 - currently working`
-### Tropicalswap
-- Link: [tropicalswap.exchange](https://tropicalswap.exchange/?chain=mnt)
-- Position: `Tech Advisor`
-- Date: `Mar 2024 - currently working`
 
 # Languages, Tools And Library:
 ### Frontend languages
