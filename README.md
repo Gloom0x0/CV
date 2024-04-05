@@ -6,13 +6,13 @@ This repository aims to describe the skills and professional knowledge.
 # Work experiences
 ### Nebula Labs
 - Link: [Nebula Labs🌌]([https://neonprotocol.io/](https://twitter.com/NebulaLabsOrg))
-- Position: `Front Head Developer`
+- Position: `Frontend Head Developer`
 - Date: `March 2024 - currently working`
 
 # Project contributor
 ### NΞON Protocol
 - Link: [neonprotocol.io](https://neonprotocol.io/)
-- Position: `Front Head Developer`
+- Position: `Frontend Head Developer`
 - Date: `Jan 2022 - currently working`
 
 # Languages, Tools And Library:
